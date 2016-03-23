@@ -1,2 +1,2 @@
 # Test-First-Ruby
-Writing some real Ruby scripts and learn some testing at the same time
+This is "error-driven development"...keep running tests, hitting error messages, fixing those messages, running more tests... It is meant to not only test Ruby skills but also get comfortable seeing big scary looking stack traces and error messages.
